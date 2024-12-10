@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+link: About
+title: About Luke
 permalink: /about/
 ---
 
