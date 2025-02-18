@@ -24,4 +24,4 @@ Individual Therapy (Private, NDIS Self-Managed and NDIS Plan Managed Participant
 * Anxiety, Depression, Stress, Regulation, Trauma, Adjustment, ASD and ADHD
 * Using a variety of methods such as CBT, ACT, TF-CBT and Imagery Rescripting
 
-Please contact us on [hodgkinsonclinicalpsychology@outlook.com](hodgkinsonclinicalpsychology@outlook.com) for bookings or more information.
+Please contact us on [{{site.email}}](mailto:{{site.email}}) for bookings or more information.
